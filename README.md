@@ -1,1 +1,1 @@
-Read the blog : https://ireadblog.com/posts/139/create-your-first-web-application-with-flask
+Read the blog : https://ashutoshkrris.hashnode.dev/create-your-first-web-application-with-flask
